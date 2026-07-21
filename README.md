@@ -287,3 +287,6 @@ This project is intended for educational and research purposes. Ensure that any 
 # 👨‍💻 Author
 
 Developed using **Python**, **OpenCV**, and **face_recognition** to demonstrate practical applications of **Artificial Intelligence**, **Computer Vision**, and **Automation**.
+
+<img width="1920" height="1080" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/e4239361-b05f-4fd0-9337-a76c53a42d66" />
+
